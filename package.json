@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mafintosh/mutex-batch.git"
+    "url": "https://github.com/mafintosh/level-mutex-batch.git"
   },
   "scripts": {
     "test": "tape test.js"
@@ -18,7 +18,7 @@
   "author": "Mathias Buus (@mafintosh)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mafintosh/mutex-batch/issues"
+    "url": "https://github.com/mafintosh/level-mutex-batch/issues"
   },
-  "homepage": "https://github.com/mafintosh/mutex-batch"
+  "homepage": "https://github.com/mafintosh/level-mutex-batch"
 }
