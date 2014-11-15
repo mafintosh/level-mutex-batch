@@ -6,6 +6,8 @@ Make sure only one leveldb batch is running at the time
 npm install level-mutex-batch
 ```
 
+[![build status](http://img.shields.io/travis/mafintosh/level-mutex-batch.svg?style=flat)](http://travis-ci.org/mafintosh/level-mutex-batch)
+
 ## Usage
 
 ``` js
