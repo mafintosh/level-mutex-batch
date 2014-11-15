@@ -1,6 +1,6 @@
 {
   "name": "level-mutex-batch",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Make sure only one leveldb batch is running at the time",
   "main": "index.js",
   "dependencies": {},
